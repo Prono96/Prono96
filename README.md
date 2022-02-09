@@ -1,7 +1,7 @@
 ![I am software developer](https://github.com/Prono96/Prono96/blob/main/1500x500.jpg)
 ## Hi there 👋, my name is Promise
 #### I am software developer
-As a person I can be anything I choose to be amazingly, but right now I'm person who has faling in love with computer programming. Before I forget I'm passionate and goal oriented plus I'm fun to be with.   
+As a person I can be anything I choose to be amazingly, but right now I'm a person who has faling in love with computer programming. Before I forget I'm passionate and goal oriented plus I'm fun to be with.   
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prono96)  
 - 🔭 I’m currently working on my magical skills 
