@@ -1,4 +1,4 @@
-![This is an image](https://github.com/Prono96/Prono96/blob/main/Black%20Flatlay%20Photo%20Motivational%20Finance%20Quote%20Facebook%20Cover.png)
+![This is an image](https://github.com/Prono96/Prono96/blob/main/githubheader.jpg)
 
 # 💫 About Me:
 I'm a software developer who is result driven and passionate about learning new technologies.<br><br>   <br>
