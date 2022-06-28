@@ -1,3 +1,5 @@
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 # 💫 About Me:
 I'm a software developer who is result driven and passionate about learning new technologies.<br><br>   <br>
 
