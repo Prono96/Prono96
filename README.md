@@ -1,4 +1,4 @@
-![This is an image](https://github.com/Prono96/Prono96/blob/main/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
+![This is an image](https://github.com/Prono96/Prono96/blob/main/1500x500.jpg)
 
 # 💫 About Me:
 I'm a software developer who is result driven and passionate about learning new technologies.<br><br>   <br>
