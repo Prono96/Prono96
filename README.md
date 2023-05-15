@@ -12,3 +12,5 @@ I'm a focused and disciplined backend software engineer with experience in build
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Prono96&icon=7&color=1)](https://visitcount.itsvg.in)
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Chiboy.96/<articleNumber>"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Chiboy.96/<articleNumber>" alt="Recent article #1"></a>
