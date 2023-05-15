@@ -1,7 +1,7 @@
 ![This is an image](https://github.com/Prono96/Prono96/blob/main/1500x500.jpg)
 
 # 💫 About Me:
-Hello, I'm a focused and disciplined backend software engineer. I'm experienced in building highly scalable and functional backend infrastructures using recent software technologies. I'm very passionate in learning new programming technologies and this has improved my problem solving skills over time. My hobbies include conducting research on topics of interest, watching and playing soccer, playing video games and travelling.
+I'm a focused and disciplined backend software engineer with experience in building scalable infrastructures. Passionate about learning new technologies, problem-solving, and hobbies like soccer, video games, research, and travel.
 
 
 # 💻 Tech Stack:
