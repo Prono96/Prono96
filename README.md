@@ -13,4 +13,4 @@ I'm a focused and disciplined backend software engineer with experience in build
 ---
 [![](https://visitcount.itsvg.in/api?id=Prono96&icon=7&color=1)](https://visitcount.itsvg.in)
 
-[![Harshal Jadhav Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=harshalrj25)](https://medium.com/@harshalrj25)
+[![Chiboy Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=Chiboy)](https://medium.com/@Chiboy.96)
