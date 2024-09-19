@@ -1,7 +1,10 @@
 ![This is an image](https://github.com/Prono96/Prono96/blob/main/1500x500.jpg)
 
 # 💫 About Me:
-I'm a focused and disciplined backend software engineer with experience in building scalable infrastructures. Passionate about learning new technologies, problem-solving, and hobbies like soccer, video games, research, and travel.
+- 👨‍💻 Cool dude, passionate about tech and AI
+- 🚀 Building something I love
+- 🎨 Lover of fashion and art
+- 🌍 If the world were at my feet, I'd just want to feed my eyes!
 
 
 # 💻 Tech Stack:
