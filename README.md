@@ -1,7 +1,7 @@
 ![This is an image](https://github.com/Prono96/Prono96/blob/main/1500x500.jpg)
 
 # 💫 About Me:
-- 👨‍💻 Cool dude, passionate about tech and AI
+- 👨‍💻 Cool dude, passionate about tech, AI $ web3
 - 🚀 Building something I love
 - 🎨 Lover of fashion and art
 - 🌍 If the world were at my feet, I'd just want to feed my eyes!
